@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 //using the Mustache template engine to seperate logic from view
 require 'mustache/src/Mustache/Autoloader.php';
